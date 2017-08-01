@@ -1,21 +1,13 @@
 
-## FOR FIAT (MONEY) DONATIONS: 
-
-If you want to contribute with traditional currency, please contact us at [donate@ethereum.org](mailto:donate@ethereum.org)
-
-## FOR OTHER CRYPTOCURRENCIES:
-
-The [Ethereum Wallet](https://github.com/ethereum/mist/releases) app uses *shapeshift* to convert between any cryptocurrency and ether to any contract. If you are on the Foundation Tip Jar page, just click the button **deposit using bitcoin**. Unicorns will not be sent back to you, though.  
-
-
 ## Other ways to help
 
 There are many other ways to help the Ethereum network. If you like meeting people and organizing events, you can set up a [Meetup near you](http://www.meetup.com/topics/ethereum/). If you prefer staying at home, you can volunteer at answering technical questions at our [Stack Exchange](http://ethereum.stackexchange.com) or helping newcomers at [Reddit forum](https://www.reddit.com/r/ethereum). And you can always help the network by [running a full node client](http://github.com/ethereum/mist/releases/latest) or a [Miner](https://github.com/ethereum/webthree-umbrella/releases/latest) and sharing your statistics at [the network stats dashboard](https://ethstats.net).
 
 But the best way to truly help ethereum adoption is to **go out there and build something awesome!**
 
+## If you have already donated
 
-### HERE’S HOW TO WATCH AND PLAY WITH UNICORNS<a id="watch-the-contract"></a>
+### [HERE’S HOW TO WATCH AND PLAY WITH UNICORNS](#watch-the-contract)
 
 You can use the **Ethereum Wallet** to keep an eye on the foundation donation tip box and to keep your unicorns safe. [Download the latest Wallet release](https://github.com/ethereum/mist/releases) and set up a wallet.
 
@@ -35,11 +27,8 @@ This will add it to your watch list. Clicking on it will take you to the contrac
 
 ![Keep an eye on the foundation tip jar](/images/tutorial/foundation-tip-box.png)
 
-The list of members and proposals can be accessed by typing a number on the input below their section titles. For example, type "1" on the input under the **Members** and you'll see that the first member is *Vitalik Buterin* and it's capabilities on this DAO. Some members have voting rights while others are added with only administrative privileges like adding new proposals. You won't find many proposals at first.
 
-*This contract **does not represent all the Ethereum Foundation holdings**, it's a newly created contract to experiment with charity [DAOs](./dao)*.
-
-If you feel like contributing, click on the **Deposit Ether** button on the top and donate any amount you want. If you send over the limit of a unicorn price (currently at 2.014 ether), then you'll get one or more unicorns!
+**On this page**, if you feel like contributing more **ethers**, click on the Deposit Ether button on the top and donate any amount you want. If you send over the limit of a unicorn price (currently at 2.014 ether), then you'll get one or more unicorns!
 
 ![First ever Unicorn Token Transaction](/images/tutorial/unicorn-is-born.png)
 
